@@ -145,7 +145,7 @@ public class PortfolioViewBean implements Serializable {
 		for (Quote q : quoteList) {
 			logger.info("FOUND " + q.getDate() + " FOR " + date);
 			if (date.equals(q.getDate())) {
-				logger.info("RETRUNING VALUE " + q.getValue() + " FOR DATE " + date);
+				//logger.info("RETRUNING VALUE " + q.getValue() + " FOR DATE " + date);
 				return q.getValue();
 			}
 		}
