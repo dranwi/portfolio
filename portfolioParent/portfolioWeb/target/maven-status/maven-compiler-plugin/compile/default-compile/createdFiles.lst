@@ -1,0 +1,10 @@
+com\andy\portfolioWeb\PortfolioViewBean.class
+com\andy\portfolioWeb\StockAddBean.class
+com\andy\portfolioWeb\StockBuyBean.class
+com\andy\portfolioWeb\StockCreateBean.class
+com\andy\portfolioWeb\StockSellBean.class
+com\andy\portfolioWeb\PortfolioManageBean.class
+com\andy\portfolioWeb\PortfolioCreateBean.class
+com\andy\portfolioWeb\QuoteCreateBean.class
+com\andy\portfolioWeb\TradeItem.class
+com\andy\portfolioWeb\QuoteListBean.class

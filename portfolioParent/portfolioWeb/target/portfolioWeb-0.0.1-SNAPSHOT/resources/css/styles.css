@@ -1,0 +1,78 @@
+.portfolios {
+				border: thin solid black;
+			}
+.portfoliosHeader {
+				text-align: center;
+				font-style: italic;
+				color: Black;				
+			}
+.oddRow {
+			background: PowderBlue;
+		}
+.evenRow {
+			background: MediumTurqouise;
+		}
+		
+					
+.stocks {
+				width: 70%;
+				border-collapse: collapse;
+				border: 1px solid #000;
+			}
+
+.stocksHeader {
+				padding: 3px;
+				text-align: right;
+				background: White;
+				font-style: italic;
+				border: 1px solid #BBBBBB;			
+				}				
+
+.whiteRow {
+			padding: 3px;
+			text-align: right;
+			background: White;
+			border: 1px solid #BBBBBB;
+		}
+.column1 {
+			border: 1px solid #BBBBBB;
+		}
+.column2	{
+			border: 1px solid #BBBBBB;
+		}	
+.column3 {
+			border: 1px solid #BBBBBB;
+		}
+.column4	{
+			border: 1px solid #BBBBBB;
+		}		
+.column5 {
+			border: 1px solid #BBBBBB;
+		}
+.column6	{
+			border: 1px solid #BBBBBB;
+		}	
+.column7 {
+			border: 1px solid #BBBBBB;
+		}
+.column8	{
+			border: 1px solid #BBBBBB;
+		}	
+.column9 {
+			border: 1px solid #BBBBBB;
+		}
+.column10 {
+			border: 1px solid #BBBBBB;
+		}	
+.column11 {
+			border: 1px solid #BBBBBB;
+		}
+.column12	{
+			border: 1px solid #BBBBBB;
+		}	
+.column13 {
+			border: 1px solid #BBBBBB;
+		}
+.column14	{
+			border: 1px solid #BBBBBB;
+		}	

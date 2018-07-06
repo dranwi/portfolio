@@ -1,0 +1,8 @@
+com\andy\portfolioModel\Trade.class
+com\andy\portfolioModel\DateString.class
+com\andy\portfolioModel\Portfolio.class
+com\andy\portfolioModel\Purchase.class
+com\andy\portfolioModel\Quote.class
+com\andy\portfolioModel\Stock.class
+com\andy\portfolioModel\Timeline.class
+com\andy\portfolioModel\Sale.class
